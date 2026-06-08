@@ -1,6 +1,7 @@
 # Hey, I'm Mohammed Shiyad  
 
 *Developer | Problem Solver | Tech Explorer*  
+
 I build responsive, data-driven, and intelligent web applications — where functionality meets clarity.  
 I love bringing logic to life with elegant UIs and scalable backend systems.
 I'm a developer passionate about building interactive, responsive, and real-time web experiences. I enjoy crafting clean UIs, solving backend challenges, and learning by building.
