@@ -37,7 +37,7 @@ I'm a developer passionate about building interactive, responsive, and real-time
 
 ## Achievements & Highlights :
 
--  Built of *Lost and Found App, connecting people with those who are searching and planning on to return items.
+-  Built of *Lost and Found App*, connecting people with those who are searching and planning on to return items.
 -  Developed *Traffic and Student Ananlysis using Data*, a data-insight dashboard for analytics that uses real-time and pre fed data to anaylyze and give out results..
 
 
