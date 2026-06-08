@@ -2,7 +2,9 @@
 
 *Developer | Problem Solver | Tech Explorer*  
 I build responsive, data-driven, and intelligent web applications — where functionality meets clarity.  
-I love bringing logic to life with elegant UIs and scalable backend systems.  
+I love bringing logic to life with elegant UIs and scalable backend systems.
+I'm a developer passionate about building interactive, responsive, and real-time web experiences. I enjoy crafting clean UIs, solving backend challenges, and learning by building.
+
 
 ---
 
@@ -34,8 +36,8 @@ I love bringing logic to life with elegant UIs and scalable backend systems.
 
 ## Achievements & Highlights :
 
-- 🔹 Built of *Lost and Found App, connecting people with those who are searching and planning on to return items.
-- 🔹 Developed *Traffic and Student Ananlysis using Data*, a data-insight dashboard for analytics that uses real-time and pre fed data to anaylyze and give out results..
+-  Built of *Lost and Found App, connecting people with those who are searching and planning on to return items.
+-  Developed *Traffic and Student Ananlysis using Data*, a data-insight dashboard for analytics that uses real-time and pre fed data to anaylyze and give out results..
 
 
 <!-- Custom profile built and maintained by Mohammed Shiyad -->
