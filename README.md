@@ -12,9 +12,9 @@ I'm a developer passionate about building interactive, responsive, and real-time
 ## Tech i work with :  
 - *Frontend:* React, Tailwind
 - *Backend:* Node.js, MongoDB
-- *Languages:* c , Python , JavaScript , Java , SQL
+- *Languages:* c , Python , JavaScript , Java , SQL, HTML
 - *Tools:* Git, GitHub, VS Code
-- *Other:* NumPy, Pandas
+- *Other:* NumPy, Pandas, Scratch
 
 ---
 
